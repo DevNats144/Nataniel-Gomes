@@ -19,14 +19,14 @@ Sou um desenvolvedor front-end em formação, atualmente no 4° ano do ensino m�
 
 - [Clone do Google com modo escuro](https://google-nats.vercel.app)
 
-- [Página de projetos com React](https://gitproject.vercel.app)
+- [Página de projetos com React](https://gitprojects.vercel.app)
 
 ##  Aprendendo
 
 - Integração com backend usando APIs
 
 
-## Redes
+## Rede
 
 - [LinkedIn](https://www.linkedin.com/in/nataniel-gomes-330a94342/)
 - [GitHub](https://github.com/seu-usuario)
