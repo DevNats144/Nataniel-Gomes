@@ -19,7 +19,6 @@ Sou um desenvolvedor front-end em formação, atualmente no 4° ano do ensino m�
 
 - [Clone do Google com modo escuro](https://google-nats.vercel.app)
 
-- [Página de projetos com React](https://gitprojects.vercel.app)
 
 ##  Aprendendo
 
